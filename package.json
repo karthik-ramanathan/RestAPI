@@ -1,6 +1,6 @@
 {
-  "name": "rest-api",
-  "version": "1.0.0",
+  "name": "jaffy-rest-api",
+  "version": "1.0.1",
   "description": "Jaffy Rest API Client",
   "main": "dist/index.min.js",
   "scripts": {
